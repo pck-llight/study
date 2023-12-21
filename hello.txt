@@ -1,1 +1,4 @@
 hello world!
+
+
+git commit -a : 스테이징, 커밋까지 싹다해줌
